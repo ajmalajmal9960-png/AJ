@@ -1,0 +1,1 @@
+It shows the diagnosis report of Health Risk Prediction, and also has some food and medicine to diagnose the health and risk of the prediction. A full scan is also available in this project. Make sure it's easy to understand and an average of the accurate predictions. It is a useful Mini Project in Machine Learning. 
